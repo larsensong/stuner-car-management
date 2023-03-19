@@ -11,4 +11,4 @@ web project developed by Hailstone|| Larsen Dev
 Operating system reqd: Windows based Operating Sytems.
 
 
-Hosting Server: Xammp or Wampp
+Hosting Server: Xampp or Wampp
