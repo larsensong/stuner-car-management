@@ -18,3 +18,7 @@ Hosting Server: Xampp or Wampp
 ## :warning: Prerequisites
 
 * Must have `xampp` installed
+
+
+## :blue_book: Authors
+* **Larsen Hailstone**
