@@ -16,3 +16,5 @@ Hosting Server: Xampp or Wampp
 
 
 ## :warning: Prerequisites
+
+* Must have `xampp` installed
