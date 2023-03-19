@@ -1,5 +1,5 @@
 
-# :ocean: StunnerCarRental :ocean:
+# :ocean: Stunner Car Rental :ocean:
 
 In this PHP stunner Car  repository I will be completing my cae rental based website. 
 stunner Car rental management website based on php as a backend for univ
@@ -12,3 +12,7 @@ Operating system reqd: Windows based Operating Sytems.
 
 
 Hosting Server: Xampp or Wampp
+
+
+
+## :warning: Prerequisites
