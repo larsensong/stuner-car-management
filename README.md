@@ -6,3 +6,4 @@ stunner Car rental management website based on php as a backend for univ
 web project developed by Hailstone|| Larsen Dev
 
 ## :running: Getting Started
+Operating system reqd. windows based os
