@@ -1,10 +1,14 @@
 
 # :ocean: Stunner Car Rental :ocean:
 
-In this PHP based websitestunner Car  repository I will be completing my car rental based website. 
+In this PHP based website called stunner Car rental. 
 
 
-Stunner Car rental management website based on php as a backend for univ; Its an ecommerce based website.
+Stunner Car rental management website based on php as a backend for univ;
+
+
+
+Its an ecommerce based website.
 
 
 
