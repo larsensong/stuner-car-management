@@ -34,7 +34,7 @@
 			<form method="post">
 				<table>
 					<tr>
-						<td style="color: #003300; font-weight: bold; font-size: 24px">Enter Your Message Here:</td>
+						<td style="color: #003300; font-weight: bold; font-size: 24px">Enter  Message Here !:</td>
 					</tr>
 					<tr>
 						<td>&nbsp;</td>
