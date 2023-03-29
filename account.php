@@ -21,7 +21,7 @@
  -->
 			<section class="caption">
 				<h2 class="caption" style="text-align: center">Find You Dream Cars For Hire</h2>
-				<h3 class="properties" style="text-align: center">Family cars - Suv's - Escort cars</h3>
+				<h3 class="properties" style="text-align: center">Family cars - Suv's - Escort cars - Other Vehicles</h3>
 			</section>
 	</section><!--  end hero section  -->
 
@@ -31,7 +31,7 @@
 		<div class="wrapper">
 		<div id="fom">
 			<form method="post">
-			<h3 style="text-align:center; color: #000099; font-weight:bold; text-decoration:underline">Client Login Area</h3>
+			<h3 style="text-align:center; color: #000099; font-weight:bold; text-decoration:underline">Client Login </h3>
 				<table height="100" align="center">
 					<tr>
 						<td>Email Address:</td>
