@@ -82,7 +82,7 @@
 						<li><a href="#">About Us</a></li>
 						<li><a href="#">Terms of Service</a></li>
 						<li><a href="#">Policy</a></li>
-						<li><a href="#">Contact</a></li>
+						<li><a href="#">Contact Us </a></li>
 					</ul>
 				</li>
 
