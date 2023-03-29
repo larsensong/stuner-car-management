@@ -100,7 +100,7 @@
 					<ul>
 						<li>OUR CAR TYPES</li>
 						<li><a href="#">Family cars</a></li>
-						<li><a href="#">Range Rover</a></li>
+						<li><a href="#">Escort's</a></li>
 						<li><a href="#">Landcruisers</a></li>
 						<li><a href="#">Others.</a></li>
 					</ul>
