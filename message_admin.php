@@ -82,9 +82,9 @@
 					<ul>
 						<li>OUR COMPANY</li>
 						<li><a href="#">About Us</a></li>
-						<li><a href="#">Terms</a></li>
+						<li><a href="#">Terms of Service</a></li>
 						<li><a href="#">Policy</a></li>
-						<li><a href="account.php">Contact</a></li>
+						<li><a href="account.php">Contact </a></li>
 					</ul>
 				</li>
 
