@@ -109,7 +109,7 @@
 						<li><a href="#">Family cars</a></li>
 						<li><a href="#">Suv's</a></li>
 						<li><a href="#">Escort cars</a></li>
-						<li><a href="#">Others.</a></li>
+						<li><a href="#">Other vehicles .</a></li>
 					</ul>
 				</li>
 
